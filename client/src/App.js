@@ -54,6 +54,7 @@ function App() {
 //     }
 // });
 
+
 function pickHex(color1, color2, weight) {
     var p = weight;
     var w = p * 2 - 1;
